@@ -11,7 +11,6 @@ const App = () => {
     </React.Fragment>
   );
 };
-
 // App関数を画面に反映する
 // 引数１；Appを要素として、引数２としてどこに？反映する
 ReactDom.render(<App />, document.getElementById("root"));
