@@ -1,6 +1,7 @@
 import React, { useState, useEffect } from 'react';
 import ColorfulMessage from './components/ColorfulMessage';
-import ColorfulMessage2 from './components/ColorfulMessage2';
+//import ColorfulMessage2 from './components/ColorfulMessage2';
+import {ColorfulMessage2} from './components/ColorfulMessage2';
 
 // コンポーネント化する、拡張子はJSXがよい
 
